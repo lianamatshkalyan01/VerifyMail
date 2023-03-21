@@ -84,7 +84,7 @@ app.post('/login', (req, res) => {
       service: "Gmail",
       auth: {
           user: "liana.matshkalyan01@gmail.com",
-          pass: "yaaklbpwupfofbsr"
+          pass: ""
       }
   })
   
